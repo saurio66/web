@@ -1,0 +1,53 @@
+body {
+    background-color: green;
+}
+#foto {
+    float: left;
+    width: 100;
+    height: 150;
+}
+.noflota {
+    clear: both;
+}
+h2 {
+    border-width: thick;
+    border-left: 12px;
+    border-right: 12px;
+    border-style: dashed;
+    border-color: gold;
+}
+strong {
+    font-size: 15px;
+    color: red;
+}
+#foto1 {
+    float: left;
+    width: 100;
+    height: 150;
+}
+.noflota1 {
+    clear: both;
+}
+#foto2 {
+    float: left;
+    width: 100;
+    height: 150;
+}
+.noflota2 {
+    clear: both;
+}#foto3 {
+    float: left;
+    width: 100;
+    height: 150;
+}
+.noflota3 {
+    clear: both;
+}
+#foto4 {
+    float: left;
+    width: 100;
+    height: 150;
+}
+.noflota4 {
+    clear: both;
+}

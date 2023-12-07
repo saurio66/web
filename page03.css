@@ -1,0 +1,33 @@
+ h2 {
+    border-width: thick;
+    border-left: 12px;
+    border-right: 12px;
+    border-style: double;
+    border-color:blue;
+ }
+  body {
+    background-color: white;
+    background-image: url(imagenes/nationalgeographic2796337.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
+   input {
+    color: red;
+    font-size: 12px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
+}
+ dt {
+  text-decoration: underline;
+ }
+ body {
+  color: yellow;
+ }
+ u {
+  color: black;
+ }
+ legend {
+  text-decoration: overline;
+ }

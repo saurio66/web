@@ -1,0 +1,19 @@
+u {
+    font-size: 17px;
+    color: red;
+}
+a {
+    font-size: 15px;
+    color: blue;
+}
+body {
+    background-color: rgb(250, 250, 250);
+    background-image: url(imagenes/wanaka-tree-new-zealand.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+ li {
+    font-size: 17px;
+    color: aliceblue;
+ }
+  
